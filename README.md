@@ -16,10 +16,8 @@ Steps:
 
 -The 'x' key starts the macro, and the 'v' key stops it.
 
-**Make sure to not leave it unattended or you might get macro checked**
-
 If it is clicking in the wrong spots:
 
--Screenshot your screen with the inventory slots showing
+-Screenshot your screen with the inventory slots showing*in fullscreen*
 
 -Download an app like paint.net to see the pixel coordinates and write them down. Then, replace them with the ones in the macro.
